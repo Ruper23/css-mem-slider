@@ -1,1 +1,1 @@
-# css-mem-slider
+# https://ruper23.github.io/css-mem-slider/
